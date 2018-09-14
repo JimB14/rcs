@@ -1,0 +1,50 @@
+#stuck_container {
+	-webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+    padding:0;
+    margin: 0;
+    position: relative;
+}
+
+.isStuck {
+		-webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+        background:none !important;
+        -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.15);
+        box-shadow: 0 2px 3px 0 rgba(0,0,0,0.15);
+}
+.isStuck nav.tm_navbar {
+
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;  
+}
+.isStuck .menuBox {
+
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+@media (max-width: 991px) {
+    .isStuck {
+        background: transparent !important;
+    }
+	#stuck_container {
+		position: relative !important;
+		box-shadow: none;
+	}
+	.pseudoStickyBlock {
+		height: 0 !important;
+	}
+}
