@@ -19,7 +19,7 @@ require '../includes/menu.php';
                 <h3 style="margin: 5px 0px">
                     <i>Call 904-346-0488 today</i> to register for our next class!
                     <br>
-                    &quot;Class D Training Course&quot; begins August 13-17, 2018
+                    &quot;Class D Training Course&quot; begins October 8-12, 2018
                     <br>
                     Space is limited, so call today!
                 </h3>

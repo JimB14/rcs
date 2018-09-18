@@ -16,7 +16,7 @@
                                 Security Officer Training School <span class="parenthesis-text text-lowercase">(Click here for more info)</span>
                             </p>
                             <p class="description2">
-                                Next class August 13-17, 2018.
+                                Next class Oct 8-12, 2018.
                             </p>
                             <p class="description2">
                                 Sign up today!
